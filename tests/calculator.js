@@ -25,7 +25,7 @@ describe("Demo calculator tests", function() {
     browser.sleep(2000);
 
   });
-/* 
+
   it("Subtraction test", function() {
     //browser.get('http://juliemr.github.io/protractor-demo/');
     homepage.get("http://juliemr.github.io/protractor-demo/");
@@ -49,7 +49,7 @@ describe("Demo calculator tests", function() {
 
     browser.sleep(3000);
 
-  }); */
+  });
 
   /* it('Subtraction test', function(){
 
